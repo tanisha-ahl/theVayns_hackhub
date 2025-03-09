@@ -17,7 +17,7 @@ Auto-Respawn System: Players return to the main world after 2 minutes in zombie 
 
 
 
-Technology Stack 🛠
+Technology Stack 
 Game Engine: Roblox Studio
 Scripting Language: Lua
 AI & NPCs: Custom scripting for Jeff the Killer & zombie spawners
@@ -25,7 +25,7 @@ Cross-Play: Compatible across multiple platforms
 
 
 
-How to Play 🎯
+How to Play 
 Choose a team (Red or Blue) and spawn in your base.
 Use teleporters to switch battle zones.
 Find and equip Easter Egg Weapons for an advantage.
@@ -34,7 +34,7 @@ Survive & eliminate zombies within 2 minutes before respawning in TDM.
 
 
 
-Future Enhancements 🔥
+Future Enhancements 
 Advanced AI for Jeff the Killer & smarter zombies
 More game modes (Capture the Flag, Battle Royale)
 Customizable weapons & skins
