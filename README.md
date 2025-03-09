@@ -44,3 +44,8 @@ Leaderboard & ranking system
 
 Here is the link to access and play the game (Comaptible in any device):
 https://www.roblox.com/games/94585380429720/
+
+
+DEMO VIDEO OF THE GAMEPLAY:
+https://youtu.be/GGx5AsiYknk
+
